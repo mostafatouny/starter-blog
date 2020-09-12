@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mostafa Touny
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CS Undergrad
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: ""
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: 
 
 #interests:
 #- Artificial Intelligence
@@ -40,13 +40,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mtouny@acm.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
+  link: https://twitter.com/MostafaTouny
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/mostafa-touny/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,6 +63,10 @@ social:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A CS undergrad who is keen on quantum computing/information, computational complexity theory and cryptography.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+People usually think of me as either (1) a programmer who turns dull math/physics into something useful, or (2) a theorist who writes papers of no real-life impact. I exonerate them from such misconception as we, theoretical computer scientists, are very bad at communicating our fields. You could even see our title is not so poetic like a string theorist or evolutionary biologist.
+
+As I totally struggled with finding a research group or even students who shares me my vision, I started this blog in hope of having a better communication and collaboration. So, Do not hesitate to contact me.
+
+P.S. I am also an occasional video-gamer.
