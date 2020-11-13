@@ -40,7 +40,7 @@ role: CS Undergrad
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mtouny@acm.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mostafatouny@protonmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MostafaTouny
@@ -67,6 +67,6 @@ A CS undergrad who is keen on quantum computing/information, computational compl
 
 People usually think of me as either (1) a programmer who turns dull math/physics into something useful, or (2) a theorist who writes papers of no real-life impact. I exonerate them from such misconception as we, theoretical computer scientists, are very bad at communicating our fields. You could even see our title is not so poetic like a string theorist or evolutionary biologist.
 
-As I totally struggled with finding a research group or even students who shares me my vision, I started this blog in hope of having a better communication and collaboration. So, Do not hesitate to contact me.
+As I totally struggled with finding a research group or even students who share me my vision, I started this blog in hope of having a better communication and collaboration. So, Do not hesitate to contact me.
 
 P.S. I am also an occasional video-gamer.
