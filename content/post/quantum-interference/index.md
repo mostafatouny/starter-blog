@@ -3,7 +3,7 @@ title: Quantum-interference-inspired Classical Problem Exercise
 subtitle: Laughable exercise for a mainstream researcher but approachable for high-school and undergraduate students
 summary: Laughable exercise for a mainstream researcher but approach for high-school and undergraduate students
 
-date: "2020-11-23T00:00:01Z"
+date: "2020-11-24T00:00:01Z"
 
 #featured: false
 #draft: false
@@ -13,10 +13,10 @@ math: true
 ---
 
 ## Preface
-In this post we initiate an exercise which we claim is of interest for anyone interested in _quantum-computing_. We justify the accessibility of this post by the fact that the author is not rigoursly trained in mathematics. For researchers, What we pose here serves as a joke for them. For high-school students, undergraduates, or even the lay audience, It serves as an insightful yet approachable exercise. In either cases, This post contributes to the good of society. No _quantum-mechanics_ or _quantum-computing_ background is assumed. In fact, A goal of this post is to pave the reader's way for further readings in _quantum algorithms_.
+In this post we initiate an exercise which we claim is of interest for anyone interested in _quantum-computing_. We justify the accessibility of this post by the fact that the author is not rigorously trained in mathematics. For researchers, What we pose here serves as a joke for them. For high-school students, undergraduates, or even the lay audience, It serves as an insightful yet approachable exercise. In either cases, This post contributes to the good of society. No _quantum-mechanics_ or _quantum-computing_ background is assumed. In fact, A goal of this post is to pave the reader's way for further readings in _quantum algorithms_.
 
 ## Overview
-The first two sections, _Quantum Parallelism The Big Promise But Not So Obvious_ and _Quantum-interference-alike Classical Problem_ are background intros to _quantum computing_. In their own rights, They serve as a popular science blog post. The contribution of this blog begins with the section following them, _Quantum-interference-alike Classical Problem_. Finally, We end this blog post with personal retrospections and a call-out for my other fellow students to continue advancing the pathway this post paves.
+The first two sections, _Quantum Parallelism The Big Promise But Not So Obvious_ and _Quantum-interference-alike Classical Problem_ are background intros to _quantum computing_. In their own rights, They serve as a popular science blog post. The contribution of this blog begins with the section following them, _Quantum-interference-alike Classical Problem_. Finally, We end this blog post with personal retrospection and a call-out for my other fellow students to continue advancing the pathway this post paves.
 
 The popular science part attempts to show how hard quantum algorithm design is, As it is very counter intuitive, Even for the physicist. Then it proceeds to the problem Deutsch-Josza's algorithm solves without any technical treatment of the algorithm.
 
@@ -63,11 +63,11 @@ Try to think with me on the following:
 
 ![3d](./3d.jpeg)
 
-You bought a new video-game and after running it, It turned-out the game contains no quality-content but repeates itself in a fatigue open-world quests. Then suddenly, A bug occurs where you fell in the cube above such that all the walls you see are the blue ones.
+You bought a new video-game and after running it, It turned-out the game contains no quality-content but repeats itself in a fatigue open-world quests. Then suddenly, A bug occurs where you fell in the cube above such that all the walls you see are the blue ones.
 
 We wish to think of the wall you did not see as a _superposition wall_ of colors _black_ and _white_, and think of moving your _mouse_ or your _right analog stick_ so that a pixel of the _superposition wall_ appears at your screen, As measuring the _superposition wall_.
 
-So, you move your _mouse_ untill the _superposition wall_ appears at your screen. Then, You find-out this wall is colored white. As nothing interests you, You restart the game in hope of not falling into the same bug. However, As games are shipped via _crunshing_ these days, You fall again into the bug. Again, You move your mouse but this time you find the _superposition wall_ colored black! The third time, black; the forth time, white. 
+So, you move your _mouse_ until the _superposition wall_ appears at your screen. Then, You find-out this wall is colored white. As nothing interests you, You restart the game in hope of not falling into the same bug. However, As games are shipped via _crunshing_ these days, You fall again into the bug. Again, You move your mouse but this time you find the _superposition wall_ colored black! The third time, black; the forth time, white. 
 
 Probably, You think the _superposition wall_ color was determined once you restarted the game. However, That is not the case. The wall was neither black nor white. It got _collapsed_ into one of these states once a pixel of the wall appeared at your screen. In other words, The wall's state is determined only when you measure it!
 
@@ -275,7 +275,7 @@ While results presented here are laughably trivial, I am personally very happy f
 That shows there's a progress in my learning.
 
 ### Too Quickly
-My first reaction when I started planning for this post was, If I am lucky enough I will need to delve deep into disncrete mathematics, Hunting for some special structure. Remarkably for me, A trivial result like the two shown above were found only from a quick skim on some definitions on Rosen's book _[Ro]_.
+My first reaction when I started planning for this post was, If I am lucky enough I will need to delve deep into discrete mathematics, Hunting for some special structure. Remarkably for me, A trivial result like the two shown above were found only from a quick skim on some definitions on Rosen's book _[Ro]_.
 
 ## Further: You Could Contribute
 For mainstream researchers, I greatly raise my doubts whether this post would be useful. For anyone else, What I tried to show here is you do not have to learn symbolically tedious math in order to figure a new insight. I am writing this post while I did not complete even an undergrad course in _quantum computing_! I believe anyone with minimal possible background could find a new pattern. Even for quantum circuits, You do not need more than high-school applied linear algebra. It is not that faraway to attempt to relate your findings back to quantum circuits.
