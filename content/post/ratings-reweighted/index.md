@@ -5,7 +5,7 @@ summary: Would you trust statistics over your friend's opinion?
 
 math: true
 diagram: true
-markup: mmark
+#markup: mmark
 
 tags: []
 categories: []

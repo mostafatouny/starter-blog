@@ -6,12 +6,12 @@ title: Mostafa Touny
 superuser: true
 
 # Role/position
-role: CS Undergrad
+role: Software Engineering Undergrad
 
-# Organizations/Affiliations
-#organizations:
-#- name: ""
-#  url: ""
+#Organizations/Affiliations:
+organizations:
+- name: "MSA Uni | Egypt"
+  url: "https://msa.edu.eg/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: 
@@ -63,7 +63,7 @@ social:
 #- Visitors
 ---
 
-A CS undergrad who is keen on quantum computing/information, computational complexity theory and cryptography.
+An undergrad student who is keen on computational complexity theory, quantum computing/information, and cryptography.
 
 People usually think of me as either (1) a programmer who turns dull math/physics into something useful, or (2) a theorist who writes papers of no real-life impact. I exonerate them from such misconception as we, theoretical computer scientists, are very bad at communicating our fields. You could even see our title is not so poetic like a string theorist or evolutionary biologist.
 
