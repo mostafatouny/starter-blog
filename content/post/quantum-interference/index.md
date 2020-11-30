@@ -1,7 +1,7 @@
 ---
 title: Quantum-interference-inspired Classical Problem Exercise
 subtitle: Laughable exercise for a mainstream researcher but approachable for high-school and undergraduate students
-summary: Laughable exercise for a mainstream researcher but approach for high-school and undergraduate students
+summary: "Yet, On a heroic movement, Computer scientists attempt to engineer _superposition_ states, Whereby a probabilistic measurement outcome, Enables them to conclude answers to algorithmic problems!"
 
 date: "2020-11-24T00:00:01Z"
 
