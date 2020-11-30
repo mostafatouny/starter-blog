@@ -1,7 +1,7 @@
 ---
 title: Proving a Space Lower-bound on a Contrived Automata
-subtitle: 
-summary: 
+subtitle: A Surprise Moment is Awaiting You
+summary: The most beautiful moment I have felt while working on this problem was when a pure deductive reasoning yielded a reasonable approach, which in turn yielded a logic-based established truth
 
 date: "2020-11-29"
 math: true
@@ -9,12 +9,26 @@ math: true
 ---
 
 ## Overview
-
+In this post we contrive a new kind of Automata, Then prove a space lower-bound on it, for a contrived problem. We begin with an example which shall motivate our whole approach, Then we imagine a thought experiment which is the basis of the proof, Finally we present the formal proof itself. The most beautiful moment I have felt while working on this problem was when a pure deductive reasoning yielded a reasonable approach, which in turn yielded a logic-based established truth. This is why I wrote a separate section called _Thought Experiment_. In addition, We strongly recommend the reader not to miss $appendix, fun facts$ section.
 ___
 
 ## Table of Contents
 - [Overview](#overview)
-
+- [Motivating Example](#motivating-example)
+    - [Usual DFA](#usual-dfa)
+    - [A New Definition For A New Problem](#a-new-definition-for-a-new-problem)
+    - [First Remark On Solving The New Problem](#first-remark-on-solving-the-new-problem)
+- [Thought Experiment](#thought-experiment)
+    - [Information-reserving Definition?](#information-reserving-definition)
+    - [Surprise Moment](#surprise-moment)
+    - [Interpreting Derived Proof](#interpreting-derived-proof)
+- [Informal Proof](#informal-proof)
+- [Formal Proof](#formal-proof)
+    - [Definitions](#definitions)
+    - [Proof](#proof)
+- [Appendix](#appendix)
+    - [Fun Facts](#fun-facts)
+    - [Paper Notes of Surprise Moment](#paper-notes-of-surprise-moment)
 ___
 
 ## Motivating Example
@@ -98,7 +112,7 @@ Let $q_{i,j}$ and $q_{i',j'}$ be any two arbitrary states, such that it is not t
 ### Space Bounds
 At this point, We have shown there are $1+2+3+\dots+(n+1) = \frac{(n+2)(n+1)}{2} = \Omega(n^2)$ distinct states. It is easy to see that it is possible to construct a machine of $\frac{(n+2)(n+1)}{2} = \mathcal{O}(n^2)$ states, As shown in this section's diagram, That solves finding longest 1s sequence problem. Hence, A space tight-bound $\Theta(n^2)$ is proved. 
 
-## Proof
+## Formal Proof
 Instead of proving concrete examples as we did before, We present here a general proof. But we do not prove states' uniqueness as we see the discussion of $\textit{informal proof}, {uniqueness}$ sufficies for that. Here we aim to provide a more mathematically matured illustration of states' existince proof.
 
 Before doing so, We give precise definitions of the finite automata and the problem we have been working through.
@@ -120,7 +134,7 @@ For an input binary string $w = \set{0, 1}^*$ of length $n \in \mathcal{N}$, It 
 
 The $\textit{Longest 1s Sequence}$ problem asks for a $SODFA$ machine to halt on an accept state $q'$ such that $L(q') = max \hspace{2mm} \set{\hspace{2mm} k_i \hspace{1mm} | \hspace{1mm} 1^{k_i} \hspace{0.5mm}\ \text{is a substring of} \hspace{2mm} w \hspace{2mm}}$.
 
-#### Showing The Existince of $q_{i,j}$ States
+### Proof
 We show:
 
 For an arbitrary $SODFA$ machine $M$, if it solves $\textit{Longest 1s Sequence Problem}$ for inputs of size $n$, Then:
