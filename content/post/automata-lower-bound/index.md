@@ -3,7 +3,7 @@ title: Proving a Space Lower-bound on a Contrived Automata
 subtitle: A Surprise Moment is Awaiting You
 summary: The most beautiful moment I have felt while working on this problem was when a pure deductive reasoning yielded a reasonable approach, which in turn yielded a logic-based established truth
 
-date: "2020-11-29"
+date: "2020-11-30"
 math: true
 
 ---
