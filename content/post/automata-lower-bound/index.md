@@ -26,6 +26,7 @@ ___
 - [Formal Proof](#formal-proof)
     - [Definitions](#definitions)
     - [Proof](#proof)
+- [References](#references)
 - [Appendix](#appendix)
     - [Fun Facts](#fun-facts)
     - [Paper Notes of Surprise Moment](#paper-notes-of-surprise-moment)
