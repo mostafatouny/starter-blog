@@ -65,7 +65,7 @@ social:
 
 A senior undergrad student, and a hobbyist of Theoretical Computer Science.
 
-**Current Self-Study:** MIT's Mathematics for Computer Science.
+**Current Self-Study:** [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf).
 
 **People's Perception:** People usually think of me as either (1) a programmer who turns dull math/physics into something useful, or (2) a theorist who writes papers of no real-life impact. I exonerate them from such misconception as theoretical computer scientists, are very bad at communicating their fields. You could even see our title is not so poetic like a string theorist or evolutionary biologist.
 
