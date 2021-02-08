@@ -40,13 +40,13 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mostafatouny@protonmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mostafatouny <at> protonmail <dot> com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MostafaTouny
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mostafa-touny/
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/mostafa-touny/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
