@@ -3,7 +3,7 @@ title: A Hobbyist's Dialogue on Theoretical CS and Overview of Computational Com
 subtitle: 
 summary: 
 
-date: "2021-03-13"
+date: "2021-04-08"
 
 image:
   caption: "[Click Here To Play](https://shared02.opsone-cloud.ch/index.php/s/KQnNAwP4KCxfr4Y)"
@@ -18,6 +18,8 @@ At the bottom right of the above picture, There is a hyperlinked caption. Click 
 ## Talk Abstract
 
 If people thought of something fascinating about computers, Then it would usually be about some fancy practical application. In this talk we tackle computers, but their theory or pure-math perspective. A central goal is to show everyone that theory developments are no less exciting and fascinating than practical computing. We hope to expose attendees to wear different shoes for theoretical CS. Particularly, We give an overview of computational complexity theory, which deals with classes of computational problems as a whole, not concrete individual problems like algorithms. The talk assumes no technical background, and is composed mainly of historical developments. The speaker is an undergrad student, and he is in no way an expert or authorized in this field. Rather, We give more personal reflections and hope for the talk to be as interactive as possible.
+
+You can see the slides [here](https://cryptpad.fr/slide/#/2/slide/view/-Z+uoSIn9G+3Zrpqf+H39fkUaBs55djg68doVzEVOzU/)
 
 ___
 
