@@ -75,6 +75,7 @@ A senior undergrad student, and a hobbyist of Theoretical Computer Science.
 **Society & Community:** I wholeheartedly support [open science movement](https://en.wikipedia.org/wiki/Open_science), and moderate [TCS's subreddit](https://www.reddit.com/r/theoreticalcs) and [TCS's awesome list](https://github.com/mostafatouny/awesome-theoretical-computer-science).
 
 **Good Memories:**
+- [qEgypt's First Workshop on Quantum Computing](https://twitter.com/Mostafa_Touny/status/1380969863708041218)
 - [My Poly Hong Kong Talk](post/hobbyist-talk/)
 - [Toric Quantum Error Correction Codes, Quantum Discord Server](https://twitter.com/Mostafa_Touny/status/1373661965185339394)
 - [Honors Linear Algebra, UCLA](post/math115ah/)
