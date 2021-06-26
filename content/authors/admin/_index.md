@@ -46,7 +46,7 @@ social:
   link: https://twitter.com/MostafaTouny
 - icon: cv
   icon_pack: ai
-  link: https://cryptpad.fr/file/#/2/file/-v6DnZl8kR6l8n88-j3i0n10
+  link: https://cryptpad.fr/file/#/2/file/ar0N+e8sJsU4Qvl1P0OOSV-A
 
 #- icon: linkedin
 #  icon_pack: fab
