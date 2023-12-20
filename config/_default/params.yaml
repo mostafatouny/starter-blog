@@ -1,0 +1,76 @@
+theme: Dark
+day_night: true
+font: ''
+font_size: L
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+highlight: true
+highlight_languages:
+  - r
+math: false
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: ''
+  content_dir: ''
+  repo_branch: master
+  editable:
+    post: false
+show_related:
+  post: true
+email: test@example.org
+sharing_image: ''
+twitter: ''
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
+main_menu:
+  align: c
+  show_logo: false
+  highlight_active_link: false
+  show_language: false
+reading_time: false
+section_pager: false
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+highlight_superuser: false
+link_authors: false
+abstract_length: 135
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: circle
+comments:
+  engine: 0
+  commentable:
+    post: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  engine: 0
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  engine: 0
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+cms:
+  netlify_cms: true
+extensions:
+  academicons:
+    enable: true

@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:mostafatouny/mostafatouny.github.io.git
+	branch = master
+[submodule "mostafatouny.github.io"]
+	path = mostafatouny.github.io
+	url = git@github.com:mostafatouny/mostafatouny.github.io.git
