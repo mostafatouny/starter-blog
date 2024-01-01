@@ -15,3 +15,4 @@ date: "2023-08-13"
 | Section        | Source    | Solution |
 |---------------- |-----------|---------|
 | Ch. 07, Sec. A | Page 214 | [PDF](./ch07-secA_sol.pdf), [HTML](/axler-linear-post/ch07-seca) |
+| Ch. 07, Sec. B | Page 223 | [PDF](./ch07-secB_sol.pdf), [HTML](/axler-linear-post/ch07-secb) |
