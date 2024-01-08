@@ -29,19 +29,19 @@ Let $X$ be a random variable for the number of times the line `a[first] > a[max_
 $H(n)$ here is the nth harmonic sum.
 
 
-### 4 {#section-1 .unnumbered}
+<!-- ### 4 {#section-1 .unnumbered} -->
 
-#### a {#a .unnumbered}
+<!-- #### a {#a .unnumbered} -->
 
-**Fact.** Given a set $A$ of distinct elements in a random order, The probability of $A[i] > A[j]$ is $1/2$ for any $i, j$.
+<!-- **Fact.** Given a set $A$ of distinct elements in a random order, The probability of $A[i] > A[j]$ is $1/2$ for any $i, j$. -->
 
-Let $R_i$ be an indicator random variable, Indicating whether $A[i] > A[i+1]$, at the ith step of the loop. Observe the algorithm's operation on a sub-array $A[:k]$ does not tamper the uniform probability of $A[k+1:]$.
+<!-- Let $R_i$ be an indicator random variable, Indicating whether $A[i] > A[i+1]$, at the ith step of the loop. Observe the algorithm's operation on a sub-array $A[:k]$ does not tamper the uniform probability of $A[k+1:]$. -->
 
-Clearly $Ex[R_i] = \nfrac{1}{2}$. It follows $W = \sum_{i=0}^{n-2} R_i = \nfrac{n-1}{2}$
+<!-- Clearly $Ex[R_i] = \nfrac{1}{2}$. It follows $W = \sum_{i=0}^{n-2} R_i = \nfrac{n-1}{2}$ -->
 
-#### b {#b .unnumbered}
+<!-- #### b {#b .unnumbered} -->
 
-Trivially the probability is zero.
+<!-- Trivially the probability is zero. -->
 
 
 ### 5 {#section-2 .unnumbered}
