@@ -29,19 +29,27 @@ Let $X$ be a random variable for the number of times the line `a[first] > a[max_
 $H(n)$ here is the nth harmonic sum.
 
 
-<!-- ### 4 {#section-1 .unnumbered} -->
+### 4 {#section-1 .unnumbered}
 
-<!-- #### a {#a .unnumbered} -->
+#### a {#a .unnumbered}
 
-<!-- **Fact.** Given a set $A$ of distinct elements in a random order, The probability of $A[i] > A[j]$ is $1/2$ for any $i, j$. -->
+**Note.** Our solution was initially flawed until we read the description of *exercise 6* which gave the correct answer. We only reconstructred the proof given the answer.
 
-<!-- Let $R_i$ be an indicator random variable, Indicating whether $A[i] > A[i+1]$, at the ith step of the loop. Observe the algorithm's operation on a sub-array $A[:k]$ does not tamper the uniform probability of $A[k+1:]$. -->
+**Fact 1.** On the ith step of the first pass of bubble-sort, $A[i]$ is the maximum element among $A[0:i]$.
 
-<!-- Clearly $Ex[R_i] = \nfrac{1}{2}$. It follows $W = \sum_{i=0}^{n-2} R_i = \nfrac{n-1}{2}$ -->
+**Fact 2.** Given $A$ is a set of distinct elements in a random order, The probability of $A[i]$ being the maximum element of $A[0:i]$ is $\frac{\displaystyle{1}}{\displaystyle{i+1}}$.
 
-<!-- #### b {#b .unnumbered} -->
+Let $R_i$ be an indicator random variable, Indicating whether $A[i] > A[i+1]$, at the ith step of the loop. From *Fact 1*, $R_i = 1$ if and only if $A[i+1]$ is not the maximum among $A[0:i+1]$. The probability of that event is $\frac{\displaystyle{i+1}}{\displaystyle{i+2}}$ from *Fact 2*.
 
-<!-- Trivially the probability is zero. -->
+Clearly $Ex[R_i] = \frac{\displaystyle{i+1}}{\displaystyle{i+2}}$. It follows $W = \sum_{i=0}^{n-2} R_i = \frac{\displaystyle{1}}{\displaystyle{2}} + \frac{\displaystyle{2}}{\displaystyle{3}} + \dots + \frac{\displaystyle{n-1}}{\displaystyle{n}}$.
+
+#### b {#b .unnumbered}
+
+That event happens if and only if
+- $max(A[1], A[2]) < A[3]$. Its probability is $\frac{\displaystyle{2}}{\displaystyle{3}}$. Or
+- $max(A[1], A[2]) > A[3]$ and $A[1] < A[3]$. Its probability is $\frac{\displaystyle{1}}{\displaystyle{3}} \cdot \frac{\displaystyle{1}}{\displaystyle{2}} = \frac{\displaystyle{1}}{\displaystyle{6}}$.
+
+So the probability $A[1] < A[2]$ after the first pass of bubble-sort is $\frac{\displaystyle{2}}{\displaystyle{3}} + \frac{\displaystyle{1}}{\displaystyle{6}} = \frac{\displaystyle{4}}{\displaystyle{6}} = \frac{\displaystyle{2}}{\displaystyle{3}}$.
 
 
 ### 5 {#section-2 .unnumbered}
