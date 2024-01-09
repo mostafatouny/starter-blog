@@ -39,7 +39,7 @@ organizations:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://u.pcloud.link/publink/show?code=XZuk2oVZAtnAxeL0KeQjPPeF0gExu4Qb0HIV 
+  link: http://u.pc.cd/lr3rtalK 
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mostafatouny<at>proton<dot>me'
