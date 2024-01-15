@@ -81,3 +81,29 @@ Clearly $C = \sum_{k=2}^n C_k$ and $A = \sum_{k=2}^n A_k$. So
           &= \nfrac{1}{2} \nfrac{n(n-1)}{2} \\\\
           &= \nfrac{n(n-1)}{4}
 \end{aligned}
+
+### 6
+
+The fact $Ex[W_n] = n - H(n)$ rests on the assumption array $A$ is randomly ordered. That is not the case after the first pass. This is clear from our answer in _Ex. 4, b_.
+
+
+### 9
+
+**Fact 1.** The number of comparisons took by the algorithm is decided by the smaller-position target.
+
+**Fact 2.** Given $A$ is randomly ordered, target $t_1$ is uniform among all $n$ positions, and target $t_2$ is uniform among all remaining $n-1$ positions.
+
+**Fact 3.** Since we are operating on remaining $n-1$ positions, The choice of $t_1$ is irrelevant. In other words the two events independent.
+
+Let $R$ be the number of algorithm's comparisons. Let $W$ be the position of smaller-position target. By *Fact 1* $R = W+1$. Observe $Pr[W=0] = Pr[R=1] = \frac{\displaystyle{1}}{\displaystyle{n}} \cdot \frac{\displaystyle{n-1}}{\displaystyle{n-1}}$, $Pr[W=1] = Pr[R=2] = \frac{\displaystyle{1}}{\displaystyle{n}} \cdot \frac{\displaystyle{n-2}}{\displaystyle{n-1}}$
+
+![image](./ex09-0.png)
+
+Generally, for $k \in \{ 0, 1, \dots, n-1 \}$, $Pr[R=k] = \frac{\displaystyle{n-k}}{\displaystyle{n-1}}$. So by definition,
+\begin{aligned}
+    Ex[R] &= \sum_{k=1}^{n-1} i \cdot \frac{\displaystyle{1}}{\displaystyle{n}} \cdot \frac{\displaystyle{n-i}}{\displaystyle{n-1}} \\\\
+        &= \frac{\displaystyle{1}}{\displaystyle{n}} \cdot \frac{\displaystyle{1}}{\displaystyle{n-1}} \sum_{i=1}^{n-1} i (n-i) \\\\
+        &= \frac{\displaystyle{1}}{\displaystyle{n}} \cdot \frac{\displaystyle{1}}{\displaystyle{n-1}} \left ( n \sum_{i=1}^{n-1} i - \sum_{i=1}^{n-1} i^2 \right ) \\\\
+        &= \frac{\displaystyle{1}}{\displaystyle{n}} \cdot \frac{\displaystyle{1}}{\displaystyle{n-1}} \left ( n \frac{\displaystyle{n(n-1)}}{\displaystyle{2}} - \frac{\displaystyle{(n-1)n(2n-1)}}{\displaystyle{6}} \right ) \\\\
+        &= \frac{\displaystyle{3n}}{\displaystyle{6}} - \frac{\displaystyle{2n-1}}{\displaystyle{6}} = \frac{\displaystyle{n+1}}{\displaystyle{6}}
+\end{aligned}
