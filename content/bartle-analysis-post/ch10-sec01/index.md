@@ -73,3 +73,29 @@ Yes. For example, on $[0,1]$, we have the partition:
     &([1/2, 3/4], 3/4), \\\\
     &([3/4, 1], 3/4)
 \end{aligned}
+
+### 3
+
+#### a
+
+<!-- ![](./2-0.jpg) -->
+
+<img src="2-0.jpg" width=60%>
+
+For every intervals $I_1, I_2$ with a common tag $t_1 = t_2$, subtitute them by a single interval $I$ with tag $t = t_1 = t_2$.
+
+Clearly $S(f,\{I\}) = S(f, \{I_1, I_2\})$.
+
+
+#### b
+
+Yes.
+
+
+#### c
+
+<!-- ![](./2-1.jpg) -->
+
+<img src="2-1.jpg" width=60%>
+
+For every interval $I$ with a tag $t$ contained only in it, Partition $I$ to $I_1, I_2$ separated at $t$, with tags $t_1 = t_2 = t$.
