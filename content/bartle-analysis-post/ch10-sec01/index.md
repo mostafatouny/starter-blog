@@ -99,3 +99,14 @@ Yes.
 <img src="2-1.jpg" width=60%>
 
 For every interval $I$ with a tag $t$ contained only in it, Partition $I$ to $I_1, I_2$ separated at $t$, with tags $t_1 = t_2 = t$.
+
+
+### 4
+
+#### a
+
+Let $I$ be an interval containing $1$. Denote its tag by $t = 1 + x$. As both $1$ and $1 + x$ are in $I$, $|I| \geq x$. But by definition $\delta(t) = \delta(1+x) = 0.5 x < x$, Contradiction. Therefore the tag of $I$ is necessarily $1$.
+
+#### b
+
+At maximum two intervals $I_1$ and $I_2$ can contain $1$. From _a_, their tags are $t_1 = t_1 = 1$. By definition $\delta(1) = 0.01$, So $|I_1| + |I_2| \leq 0.01 + 0.01 = 0.02$.
