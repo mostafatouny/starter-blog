@@ -3,7 +3,7 @@ title: "Henry's Linear Algebra"
 subtitle: "Self-studying linear algebra by Henry"
 summary: "Self-studying linear algebra by Henry"
 math: true
-date: "2024-01-16"
+date: "2024-01-21"
 ---
 
 ## Materials
@@ -14,4 +14,5 @@ date: "2024-01-16"
 
 | Chapter      | Content  |
 |--------------|-----------|
+| Chapter 03, Section 02 | [PDF](./ch03-sec02_sol.pdf), [HTML](/henry-linear-post/ch03-sec02) |
 | Chapter 04, Section 05 | [PDF](./ch04-sec05_sol.pdf), [HTML](/henry-linear-post/ch04-sec05) |
