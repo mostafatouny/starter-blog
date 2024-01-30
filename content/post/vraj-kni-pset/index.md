@@ -15,4 +15,5 @@ date: "2024-01-02"
 | Chapter      | Content  |
 |--------------|-----------|
 | Chapter 02, Section 01 | [PDF](./ch02-sec01_sol.pdf), [HTML](/vraj-kni-post/ch02-sec01) |
+| Chapter 04, Section 02 | [PDF](./ch04-sec02_sol.pdf), [HTML](/vraj-kni-post/ch04-sec02) |
 | Chapter 06, Section 07 | [PDF](./ch06-sec07_sol.pdf), [HTML](/vraj-kni-post/ch06-sec07) |
