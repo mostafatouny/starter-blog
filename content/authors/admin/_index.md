@@ -73,9 +73,10 @@ social:
 ---
 
 **Currently**
-- Research & Teaching Assistant at MSA university with [Islam El-Shaarawy](https://scholar.google.com/citations?user=QiYV8YYAAAAJ&hl=en&oi=ao).
-  - CS312x Introduction to Algorithms & CS475 Data Mining.
-- Auditing Modern Algebra with [Daoud Siniora](https://sites.google.com/view/daoudsiniora).
+- TA/RA Assistant at MSA university 
+    - Researching Learning-augmented Optimization with [Islam El-Shaarawy](https://scholar.google.com/citations?user=QiYV8YYAAAAJ&hl=en&oi=ao).
+    - Teaching Discrete Math, Calculus I, Calculus II, and Linear Algebra.
+- Auditing Formal Logic with [Daoud Siniora](https://sites.google.com/view/daoudsiniora) and Graph Theory with [Isabel Müller](https://www.aucegypt.edu/fac/isabel).
 
 **Interests**
 - Computational Social Choice, and broadly economics & computation theory.
