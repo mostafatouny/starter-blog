@@ -25,9 +25,9 @@ TBD
 | Ch05         | [PDF](./ch05_sol.pdf), [HTML](/siniora-algebra-post/pset05)|        [PDF](ch05_graded.pdf) |
 | Ch06         | [PDF](./ch06_sol.pdf), [HTML](/siniora-algebra-post/pset06)|        [PDF](ch06_graded.pdf) |
 | Ch07         | [PDF](./ch07_sol.pdf), [HTML](/siniora-algebra-post/pset07)| |
-| Ch08         | [PDF](./ch08_sol.pdf), [HTML](/siniora-algebra-post/pset08)| |
-| Ch09         | [PDF](./ch09_sol.pdf), [HTML](/siniora-algebra-post/pset09)| |
-| Ch10         | [PDF](./ch10_sol.pdf), [HTML](/siniora-algebra-post/pset10)| |
+| Ch08         | [PDF](./ch08_sol.pdf), [HTML](/siniora-algebra-post/pset08)| [PDF](./ch08_graded.pdf) |
+| Ch09         | [PDF](./ch09_sol.pdf), [HTML](/siniora-algebra-post/pset09)| [PDF](./ch09_graded.pdf) |
+| Ch10         | [PDF](./ch10_sol.pdf), [HTML](/siniora-algebra-post/pset10)| [PDF](./ch10_graded.pdf) |
 | Ch11         | [PDF](./ch11_sol.pdf), [HTML](/siniora-algebra-post/pset11)| |
 | Ch12         | [PDF](./ch12_sol.pdf), [HTML](/siniora-algebra-post/pset12)| |
 | Ch13         | [PDF](./ch13_sol.pdf), [HTML](/siniora-algebra-post/pset13)| |
