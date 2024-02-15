@@ -103,6 +103,7 @@ I will always be remembering [Oded and Avi's 1996 essay](https://theorydish.blog
 **Society & Community.** I am delighted to moderate [TCS's subreddit](https://www.reddit.com/r/theoreticalcs) and [TCS's awesome list](https://github.com/mostafatouny/awesome-theoretical-computer-science), Getting the chance to meet students from all over the world.
 
 **Good Memories.**
+- [ACM's Economics & Computation Winter Gathering, With Alvin Roth and Noam Nisam](https://x.com/Mostafa_Touny/status/1758206433969963486?s=20)
 - [Asking Gkatzelis about Learning-Augmentation for Voting and Fairness](https://youtu.be/nMm6-20OI94?si=P4bSchKYpLBZzzs9&t=1685)
 - [Chi-Ning Chou's Minicourse](https://twitter.com/Mostafa_Touny/status/1480568006875004930) (course details [here](https://cnchou.github.io/mini-course/))
 - [COLT 2021 Mentorship Workshop](https://twitter.com/Mostafa_Touny/status/1422972878065184768)
