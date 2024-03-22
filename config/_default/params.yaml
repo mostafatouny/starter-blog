@@ -33,6 +33,8 @@ main_menu:
   show_language: false
 reading_time: false
 section_pager: false
+share: false
+profile: false
 copyright_license:
   enable: false
   allow_derivatives: false
