@@ -3,11 +3,11 @@ title: Mostafa Touny
 
 superuser: true
 
-role: TA/RA at MSA
+role: RA at AUC
 
 organizations:
-  - name: "MSA Uni | Egypt"
-    url: "https://msa.edu.eg/"
+  - name: "AUC | Egypt"
+    url: "https://www.aucegypt.edu/"
 
 
 social:
@@ -35,14 +35,14 @@ social:
 ---
 
 **Currently**
-- TA/RA Assistant at MSA university 
-    - Researching Learning-augmented Optimization with [Islam El-Shaarawy](https://scholar.google.com/citations?user=QiYV8YYAAAAJ&hl=en&oi=ao).
-    - Teaching Discrete Math, Calculus I, Calculus II, and Linear Algebra.
-- Auditing Formal Logic with [Daoud Siniora](https://sites.google.com/view/daoudsiniora) and Graph Theory with [Isabel Müller](https://www.aucegypt.edu/fac/isabel).
+- Research Assistant at The American University in Cairo
+  - Co-advised by both [Dr. Daoud Siniora](https://sites.google.com/view/daoudsiniora) and [Dr. Amr El-Mougy](https://www.aucegypt.edu/fac/amr-el-mougy).
+  - Ethical Autonomous Vehicles with Provable Guarantees.
+  - Combining Learning-driven Deep Reinforcement Learning with Proven Logical Model.
 
 **Interests**
 - Computational Social Choice, and broadly economics & computation theory.
-- Computing on and learning from non-combinatorial structures.
+- Provable algorithms on continuous structures.
 - Learning-augmented algorithms.
 - Trustworthy and Machine Learning Theory.
 

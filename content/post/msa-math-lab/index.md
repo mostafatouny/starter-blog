@@ -3,11 +3,21 @@ title: "Math with Application at MSA Uni."
 subtitle: "Four courses TAed in Spring 2024, Modern Sciences and Arts (MSA)."
 summary: "Four courses TAed in Spring 2024, Modern Sciences and Arts (MSA)."
 math: true
-date: "2024-05-20"
+date: "2024-07-09"
 ---
 
-## Forward
-TBD
+## Best Student Project
+- Predictive Population Model By [Eyad Magdy](https://www.linkedin.com/in/eyad-magdy-819b23303/), A rising freshman (1st year) student.
+- Before completing Programming I, He learned Python, and made a practical project. 
+- Before completing Calculus I, He learned partial derivatives and implemented the gradient descent algorithm, to train a linear model.
+- He well explains the case-study motivation, population growth prediction, behind his algorithm and analytics.
+- [Github Source Code](https://github.com/eyadXE/population-prediction-model-/tree/main), [Hugging Face Deployed Model](https://huggingface.co/spaces/eyad222/apptest2)
+
+<img src="eyad-1.jpg" width=900>
+<img src="eyad-2.jpg" width=500>
+<img src="eyad-3.jpg" width=500>
+<img src="eyad-4.jpg" width=500>
+<img src="eyad-5.jpg" width=900>
 
 ## Materials
 - Briggs, Cochran, Gillett & Schulz. Calculus for Scientists and Engineers, Early Transcendentals. Pearson.
