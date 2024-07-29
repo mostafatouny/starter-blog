@@ -3,7 +3,7 @@ title: Vrajitoru & Knight's Probabilistic Analysis of Algorithms
 subtitle: "Self-studying probabilistic analysis of algorithms by Vrajitoru & Knight"
 summary: "Self-studying probabilistic analysis of algorithms by Vrajitoru & Knight"
 math: true
-date: "2024-01-02"
+date: "2023-01-02"
 ---
 
 ## Materials

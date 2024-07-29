@@ -3,7 +3,7 @@ title: Harvey's Randomized Algorithms
 subtitle: "Self-studying randomized algorithms by Nick Harvey, British Columbia"
 summary: "Self-studying randomized algorithms by Nick Harvey, British Columbia"
 math: true
-date: "2023-12-11"
+date: "2023-10-01"
 ---
 
 ## Materials

@@ -3,7 +3,7 @@ title: "Axler's Linear Algebra"
 subtitle: "Self-studying Linear Algebra by Sheldon Axler."
 summary: "Self-studying Linear Algebra by Sheldon Axler."
 math: true
-date: "2024-01-08"
+date: "2023-01-08"
 ---
 
 ## Materials

@@ -3,7 +3,7 @@ title: "Henry's Linear Algebra"
 subtitle: "Self-studying linear algebra by Henry"
 summary: "Self-studying linear algebra by Henry"
 math: true
-date: "2024-01-21"
+date: "2023-01-21"
 ---
 
 ## Materials

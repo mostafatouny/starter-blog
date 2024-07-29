@@ -3,7 +3,7 @@ title: "Bartle & Sherbert's Real Analysis"
 subtitle: "Self-studying real analysis by Bartle & Sherbert"
 summary: "Self-studying real analysis by Bartle & Sherbert"
 math: true
-date: "2024-01-10"
+date: "2023-01-10"
 ---
 
 ## Materials

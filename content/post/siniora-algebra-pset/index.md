@@ -3,7 +3,7 @@ title: Gallian's Abstract Algebra
 subtitle: "A course audited by Dr. Daoud Siniora, The American University in Cairo (AUC)"
 summary: "A course audited by Dr. Daoud Siniora, The American University in Cairo (AUC)"
 math: true
-date: "2023-11-16"
+date: "2023-12-16"
 ---
 
 ## Forward
