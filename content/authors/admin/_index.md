@@ -17,6 +17,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mostafatouny<at>proton<dot>me'
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/mostafatouny
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Mostafa_Touny
