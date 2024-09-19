@@ -73,6 +73,4 @@ I will always be remembering [Oded and Avi's 1996 essay](https://theorydish.blog
 - [FOCS 2020](https://focs2020.cs.duke.edu/) (I was granted registration fee waiver). see: [1](https://twitter.com/BlumLenore/status/1327306067320172544), [2](https://twitter.com/Mostafa_Touny/status/1329139915104399362), [3](https://twitter.com/Mostafa_Touny/status/1327331859756425225), [4](https://twitter.com/Mostafa_Touny/status/1327311589163356162/photo/1). I learned about it [through twitter](https://twitter.com/ccanonne_/status/1325140475167305728).
 - [Scott Aaronson's QnA](https://twitter.com/Mostafa_Touny/status/1325547607079464960).
 
-**Family.** [Mum & Dad](https://www.instagram.com/p/CpYNgF3MpSe/?img_index=2) (Lawyer), [Brother](https://www.instagram.com/ahmedxtouny/) (Athlete Coach), [Sister](https://twitter.com/Mostafa_Touny/status/1600805391826587653?s=20) (Passed out aged 14).
-
-**Non-Serious.** If I am not doing any serious work, I would probably be listening to [Taylor Davis](https://www.youtube.com/channel/UCk40qSGYnVdFFBNXRjrvdpQ).
+**Family.** [Mum & Dad](https://www.instagram.com/p/CpYNgF3MpSe/?img_index=2) (Lawyer), [Brother](https://www.instagram.com/ahmedxtouny/) (Athlete Coach), [Sister](https://x.com/Mostafa_Touny/status/1600805391826587653) (Passed out aged 14).
