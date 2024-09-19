@@ -1,0 +1,45 @@
+/* Navigation Bar */
+.navbar {
+  font-size: x-large;
+}
+
+/* Mostafa Touny, Biography */
+#profile > div.text-3xl.font-bold.mb-2.mt-6 {
+  font-size: 2.5em;
+}
+
+/* RA at AUC */
+#profile > h3 {
+  font-size: 1.5em;
+}
+
+/* AUC | Egypt */
+#profile > div:nth-child(4) {
+  font-size: 1.5em;
+}
+
+/* body of Biography */
+#profile > div.pt-2.d-flex.justify-content-center.prose.prose-slate.lg\:prose-xl.dark\:prose-invert {
+  font-size: 1.5em;
+  /* width: 80%; */
+}
+
+/* #profile > div.pt-2.d-flex.justify-content-center.prose.prose-slate.lg\:prose-xl.dark\:prose-invert > div { */
+/*   width: 80% */
+/* } */
+
+/* blog posts page */
+#top > div.page-body.my-10 > div.flex.flex-col.items-center > div {
+  max-width: 60%;
+  font-size: 2em;
+}
+
+/* hide published with hugo footer */
+#top > div.page-footer > footer > p {
+    display: none;
+}
+
+/* legacy removing line out of width */
+/* p, li { */
+/*   hyphens: none */
+/* } */

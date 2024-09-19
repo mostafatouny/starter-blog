@@ -10,27 +10,18 @@ organizations:
     url: "https://www.aucegypt.edu/"
 
 
-social:
-- icon: cv
-  icon_pack: ai
+profiles:
+- icon: hero/paper-clip
   link: http://u.pc.cd/lr3rtalK 
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:mostafatouny<at>proton<dot>me'
-- icon: telegram
-  icon_pack: fab
+- icon: hero/envelope
+  link: "mailto:mostafatouny<at>proton<dot>me"
+- icon: brands/telegram
   link: https://t.me/mostafatouny
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Mostafa_Touny
-- icon: linkedin
-  icon_pack: fab
+- icon: brands/x
+  link: https://x.com/Mostafa_Touny
+- icon: brands/linkedin
   link: https://www.linkedin.com/in/mostafa-touny/
-- icon: reddit
-  icon_pack: fab
-  link: https://www.reddit.com/user/xTouny
-- icon: instagram
-  icon_pack: fab
+- icon: brands/instagram
   link: https://www.instagram.com/mostafa.touny/
 #- icon: mastodon
 #  icon_pack: fab

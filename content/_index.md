@@ -1,13 +1,10 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
-date: 2024-03-22
+title: ""
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
+  - block: resume-biography
     content:
-      title: About
+      # The user's folder name in `content/authors/`
       username: admin
 ---
